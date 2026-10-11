@@ -103,4 +103,8 @@ Predictions are estimates based on historical data. They are not guaranteed acad
 
 ## 👩‍💻 Author
 
-Add your name and GitHub profile link here.
+Sahana B.
+
+GitHub: @Sahana63644
+
+Project: Student Performance Predictor
